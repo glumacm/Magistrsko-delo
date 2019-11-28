@@ -23,21 +23,21 @@ skrbi pred kršenjem avtorskih pravic, se tukaj ne bo nalagalo dejanskih
 člankov (*.pdf).
 
 ------------------------------------------------------------------------------
-TEST
-	-- _imeProjekta_
-		-- _imeAlgoritma_
-			-- okvirenRazponDatumovAnaliz.odt
-			-- ...
-		-- ...
-	-- ...
--- SCRIPTS
-	-- _imeSkripte_
-	-- ...
--- LITERATURE
-	-- _nazivSpecificneLiterature_
-	-- ...
--- DOC
-	-- ...
+TEST \n
+	-- _imeProjekta_ \n
+		-- _imeAlgoritma \n_
+			-- okvirenRazponDatumovAnaliz.odt \n
+			-- ... \n
+		-- ... \n
+	-- ... \n
+-- SCRIPTS \n
+	-- _imeSkripte_ \n
+	-- ... \n 
+-- LITERATURE \n
+	-- _nazivSpecificneLiterature_ \n
+	-- ... \n
+-- DOC \n
+	-- ... \n
 
 ------------------------------------------------------------------------------
 
