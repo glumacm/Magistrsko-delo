@@ -44,5 +44,5 @@ skrbi pred kršenjem avtorskih pravic, se tukaj ne bo nalagalo dejanskih
 
 Ideja tega GitHub projekta je predvsem zato, da imam vse ključne zadeve 
 povezane z magistrsko nalogo na enem mestu in dostopno iz vseh računalnikov.
-Še posebej gledam na to kot na klučni "fail-safe" mehanizem v primeru mehanske
+Še posebej gledam na to kot na ključni "fail-safe" mehanizem v primeru mehanske
 napake na lokalnih diskih.
